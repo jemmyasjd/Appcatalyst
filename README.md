@@ -7,7 +7,7 @@
 
 Introducing AppCatalyst, a powerful hosting platform designed for developers to deploy and manage web applications effortlessly.AppCatalyst delivers seamless deployment, real-time updates, and scalable architecture to support modern web development needs.
 
-The project architecture includes various components such as an API server, build server, socket server, and a reverse proxy setup, all orchestrated using AWS services like ECS, ECR, and S3 storage. This setup ensures efficient handling of build processes, real-time updates, and secure storage, making it an good solution for modern web development needs.
+The project architecture includes various components such as an API server, build server, socket server, and a reverse proxy setup, all orchestrated using AWS services like ECS, ECR, and S3 storage. This setup ensures efficient handling of build processes, real-time updates, and secure storage, making it an ideal solution for modern web development needs.
 
 ## What It Does !! 👷
 
